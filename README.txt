@@ -1,3 +1,4 @@
+<p style="font-family:verdana">
 --- Purpose of Application ---
 
 Appointment Scheduling App
@@ -21,22 +22,26 @@ company’s IT support staff. Your application should be organized logically usi
 generously commented using Javadoc so your code can be read and maintained by other programmers.
 
 
-Author: Andrew Vigil
-Contact: andrewvigil@live.com
-Student Application Version: 1.0
-Date: 6/10/23
-
---- IDE and Java Module Information ---
-IntelliJ IDEA Community Edition 2021.1.3 x64
-JDK-17.0.1
-JavaFX-SDK-17.0.1
-
-MySQL-connector: mysql-connector-java-8.0.27
-
---- Additional Report ---
-Per requirement A3f, added an additional report to display total number of customers in scheduler.
-
 --- Directions ---
 As the program starts, a login screen is presented. The user will be required to have a valid username and password
 that matches information in the mySQL database. From there the user will be brought to a main screen whee they can
 navigate to the pages of Appointments, Customers, or Reports.
+
+
+
+FUNCTIONALITIES/ DEMONSTRATED SKILLS:
+
+Using JDBC to manipulate an external SQL Database
+Add, Retrieve, modify, delete items from a MySQL database respecting Foreign Key constraints.
+Generating reports based on entities in the database
+Supports user accounts and log-ins
+Generate Notifications if there is an appointment within 15 minutes of log in
+Localization using .properties
+Log log-ins into a .txt log file
+Time Zone support and ZonedDateTime, LocalDateTime, Timestamp classes
+2 Lambda Expressions (addCustomerController and addAppointmentController)
+JavaFX and User Interfaces
+Git and Github for Version Control
+
+
+</p>
