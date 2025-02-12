@@ -1,9 +1,9 @@
-<p style="font-family:verdana">
---- Purpose of Application ---
+
+<h2><b>--- Purpose of Application ---</b></h2>
 
 Appointment Scheduling App
 
---- Scenario ---
+<h2><b>--- Scenario ---</b></h2>
 You are working for a software company that has been contracted to develop a GUI-based scheduling desktop application.
 The contract is with a global consulting organization that conducts business in multiple languages and has main offices
 in Phoenix, Arizona; White Plains, New York; Montreal, Canada; and London, England. The consulting organization has
@@ -22,14 +22,14 @@ company’s IT support staff. Your application should be organized logically usi
 generously commented using Javadoc so your code can be read and maintained by other programmers.
 
 
---- Directions ---
+<h2><b>--- Directions ---</b></h2>
 As the program starts, a login screen is presented. The user will be required to have a valid username and password
 that matches information in the mySQL database. From there the user will be brought to a main screen whee they can
 navigate to the pages of Appointments, Customers, or Reports.
 
 
 
-FUNCTIONALITIES/ DEMONSTRATED SKILLS:
+<h2><b>FUNCTIONALITIES/ DEMONSTRATED SKILLS:</b></h2>
 
 Using JDBC to manipulate an external SQL Database
 Add, Retrieve, modify, delete items from a MySQL database respecting Foreign Key constraints.
@@ -44,4 +44,4 @@ JavaFX and User Interfaces
 Git and Github for Version Control
 
 
-</p>
+
